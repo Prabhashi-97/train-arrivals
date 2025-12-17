@@ -10,7 +10,7 @@
     }
   },
   {"Code": "BA 342",
-   "Origin": "London",
+   "Origin": "Leeds",
    "DueTime": "2025-01-10T15:00:00Z",
    "Status": {
       "arrived": "",
